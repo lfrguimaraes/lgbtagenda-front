@@ -1,0 +1,1 @@
+// Ticket QR display linked to user profile.
